@@ -1,0 +1,10 @@
+kind = "DojoContract"
+class_hash = "0x7c09da0fbe24f1d2c124595f9427be852a322b976598f62ed283dde718f4931"
+original_class_hash = "0x7c09da0fbe24f1d2c124595f9427be852a322b976598f62ed283dde718f4931"
+base_class_hash = "0x0"
+abi = "manifests/dev/abis/base/contracts/gladiethers_systems_actions_actions.json"
+reads = []
+writes = []
+computed = []
+init_calldata = []
+name = "gladiethers::systems::actions::actions"

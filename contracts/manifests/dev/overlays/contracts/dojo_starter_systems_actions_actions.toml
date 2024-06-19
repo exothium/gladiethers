@@ -1,0 +1,4 @@
+name = "gladiethers::systems::actions::actions"
+reads = []
+writes = ["Position", "Moves", "DirectionsAvailable"]
+init_calldata = []

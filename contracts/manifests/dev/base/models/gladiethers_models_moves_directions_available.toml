@@ -1,0 +1,15 @@
+kind = "DojoModel"
+class_hash = "0xa945d5e7b2d2ddbba2e9f7657cea6cada4e5cf6969f9b5da30f18989de978d"
+original_class_hash = "0xa945d5e7b2d2ddbba2e9f7657cea6cada4e5cf6969f9b5da30f18989de978d"
+abi = "manifests/dev/abis/base/models/gladiethers_models_moves_directions_available.json"
+name = "gladiethers::models::moves::directions_available"
+
+[[members]]
+name = "player"
+type = "ContractAddress"
+key = true
+
+[[members]]
+name = "directions"
+type = "Array<Direction>"
+key = false
